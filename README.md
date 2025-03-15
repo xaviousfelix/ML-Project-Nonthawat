@@ -4,8 +4,8 @@ echo "# AIbboat.v1i.yolov8 🚀
 ## 📌 วิธีติดตั้ง  
 1. Clone โปรเจค  
    \`\`\`sh  
-   git clone https://github.com/your-username/your-repo.git  
-   cd your-repo  
+   git clone [https://github.com/your-username/your-repo.git  ](https://github.com/xaviousfelix/ML-Project-Nonthawat/tree/main)
+   cd [your-repo](https://github.com/xaviousfelix/ML-Project-Nonthawat/tree/main)  
    \`\`\`  
 
 2. ติดตั้ง dependencies  
