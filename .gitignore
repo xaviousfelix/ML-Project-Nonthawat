@@ -1,0 +1,39 @@
+# 🐍 Python ไฟล์ที่ไม่ต้องการ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📚 Jupyter Notebook
+*.ipynb_checkpoints/
+
+# 🧠 ไฟล์ Model (TensorFlow, PyTorch, Sklearn, etc.)
+*.h5
+*.hdf5
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+*.onnx
+
+# 📊 Dataset ไฟล์ที่ไม่ต้องการอัปโหลด
+*.csv
+*.tsv
+*.json
+*.parquet
+
+# ⚙️ Virtual Environment
+venv/
+.env
+Pipfile
+Pipfile.lock
+requirements.txt
+
+# 🚀 Log และ Output ไฟล์
+logs/
+*.log
+*.out
+
+# 🛠 IDE (PyCharm, VS Code)
+.vscode/
+.idea/
